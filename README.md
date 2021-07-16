@@ -5,7 +5,11 @@
 
 <!-- <p align="center> Hi there, I'm Janmaijai Rana!👋 </p> -->
 
-# <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="100" height="100" /> Hi there, I'm Janmaijai Rana!👋
+<div>
+# <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="100" height="100" /> Hi there, I'm Janmaijai Rana! 👋
+<a href="https://www.linkedin.com/in/janmaijairana/">
+  <img align="left" alt="Janmaijai's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a></div>
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Maverick-99/&title=Profile%20Views)
 
