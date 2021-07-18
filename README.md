@@ -3,10 +3,19 @@
     <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" width="400" height="300">
 </p>
 
-<!-- <p align="center> Hi there, I'm Janmaijai Rana!👋 </p> -->
+# Hi there, I'm Janmaijai Rana!👋 
+
+- I am a 
 
 
-# <img src="https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif" width="100" height="100" /> Hi there, I'm Janmaijai Rana! 👋 <a href="https://www.linkedin.com/in/janmaijairana/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+### Connect with Me
+[![Linkedin Badge](https://img.shields.io/badge/-janmaijairana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janmaijairana/)](https://www.linkedin.com/in/janmaijairana/)   [![Gmail Badge](https://img.shields.io/badge/-janmaijairana99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janmaijairana99@gmail.com)](mailto:janmaijairana99@gmail.com)
+
+
+
+
+
 
 
 
