@@ -5,9 +5,17 @@
 
 # Hi there, I'm Janmaijai Rana!👋  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Maverick-99/&title=Profile%20Views) 
 
-About Me
+<h3>About Me</h3>
+
 - I love computers that's why I never stop learning more and more about various fields in computer science.
 - I have learned Web Development, Machine Learning and Software development.
+
+See my Projects 
+
+[Campground](https://github.com/Maverick-99/Campground)
+[Zoom Clone](https://github.com/Maverick-99/Zoom-Clone)
+[Text Editor](https://github.com/Maverick-99/Text-Editor)
+[Machine Learning](https://github.com/Maverick-99/Machine-Learning-Projects)
 
 ### Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-janmaijairana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janmaijairana/)](https://www.linkedin.com/in/janmaijairana/)   [![Gmail Badge](https://img.shields.io/badge/-janmaijairana99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janmaijairana99@gmail.com)](mailto:janmaijairana99@gmail.com)
