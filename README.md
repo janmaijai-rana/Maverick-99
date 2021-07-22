@@ -10,12 +10,13 @@
 - I love computers that's why I never stop learning more and more about various fields in computer science.
 - I have learned Web Development, Machine Learning and Software development.
 
-See my Projects 
+<h3> See my Projects In </h3>
 
-[Campground](https://github.com/Maverick-99/Campground)
-[Zoom Clone](https://github.com/Maverick-99/Zoom-Clone)
-[Text Editor](https://github.com/Maverick-99/Text-Editor)
-[Machine Learning](https://github.com/Maverick-99/Machine-Learning-Projects)
+- <b>Web Development</b> :- [Campground](https://github.com/Maverick-99/Campground) and [Zoom Clone](https://github.com/Maverick-99/Zoom-Clone)
+
+- <b>Software Development</b> :- [Text Editor](https://github.com/Maverick-99/Text-Editor)
+
+- <b>Machine Learning</b> :- [Machine Learning](https://github.com/Maverick-99/Machine-Learning-Projects)
 
 ### Connect with Me
 [![Linkedin Badge](https://img.shields.io/badge/-janmaijairana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janmaijairana/)](https://www.linkedin.com/in/janmaijairana/)   [![Gmail Badge](https://img.shields.io/badge/-janmaijairana99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janmaijairana99@gmail.com)](mailto:janmaijairana99@gmail.com)
