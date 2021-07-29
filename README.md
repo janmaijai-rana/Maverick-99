@@ -7,8 +7,8 @@
 
 <h3>About Me</h3>
 
-- I love computers that's why I never stop learning more and more about various fields in computer science.
-- I have learned Web Development, Machine Learning and Software development.
+- I have done my Bachelor's in Computer Science and Engineering from Central University of Haryana.
+- I am learning..
 
 <h3> See my Projects In </h3>
 
