@@ -29,7 +29,7 @@
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maverick-99&count_private=true&show_icons=true&theme=radical"></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Maverick-99&count_private=true&show_icons=true&theme=radical"></p> -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maverick-99&theme=radical"></p>
 
 
