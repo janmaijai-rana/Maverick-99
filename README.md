@@ -3,7 +3,9 @@
     <img src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif" width="400" height="300">
 </p>
 
-# Hi there, I'm Janmaijai Rana!👋  ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Maverick-99/&title=Profile%20Views) 
+# Hi there, I'm Janmaijai Rana!👋  ![](https://komarev.com/ghpvc/?username=Maverick-99&label=PROFILE+VIEWS&color=brightgreen)
+
+
 
 <h3>About Me</h3>
 
