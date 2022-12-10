@@ -7,10 +7,10 @@
 
 
 
-<h3>About Me</h3>
+<!-- <h3>About Me</h3>
 
-- I have done my Bachelor's in Computer Science and Engineering from Central University of Haryana.
-- I am learning..
+ - I have done my Bachelor's in Computer Science and Engineering from Central University of Haryana.
+ - I am learning.. -->
 
 <h3> See my Projects In </h3>
 
@@ -20,8 +20,9 @@
 
 - <b>Machine Learning</b> :- [Machine Learning](https://github.com/Maverick-99/Machine-Learning-Projects)
 
+<!-- 
 ### Connect with Me
-[![Linkedin Badge](https://img.shields.io/badge/-janmaijairana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janmaijairana/)](https://www.linkedin.com/in/janmaijairana/)   [![Gmail Badge](https://img.shields.io/badge/-janmaijairana99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janmaijairana99@gmail.com)](mailto:janmaijairana99@gmail.com)
+# [![Linkedin Badge](https://img.shields.io/badge/-janmaijairana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janmaijairana/)](https://www.linkedin.com/in/janmaijairana/)   [![Gmail Badge](https://img.shields.io/badge/-janmaijairana99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janmaijairana99@gmail.com)](mailto:janmaijairana99@gmail.com) -->
 
 
 <h3 align="left">Languages and Tools:</h3>
