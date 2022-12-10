@@ -12,7 +12,7 @@
  - I have done my Bachelor's in Computer Science and Engineering from Central University of Haryana.
  - I am learning.. -->
 
-<h3> See my Projects In </h3>
+<h3> See my Projects </h3>
 
 - <b>Web Development</b> :- [Campground](https://github.com/Maverick-99/Campground) and [Zoom Clone](https://github.com/Maverick-99/Zoom-Clone)
 
